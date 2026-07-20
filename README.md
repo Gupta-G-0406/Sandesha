@@ -34,7 +34,7 @@ Responsive and intuitive user interface developed with React.
 Clone the project
 
 ```bash
-git clone --recursive https://github.com/fadingreality1/sandesha.git
+git clone --recursive https://github.com/Gupta-G-0406/sandesha.git
 ```
 
 Go to the project server directory
